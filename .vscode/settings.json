@@ -1,0 +1,5 @@
+{
+  "tabnine.debounceMilliseconds": 100,
+  "tabnine.experimentalAutoImports": true,
+  "tabnine.receiveBetaChannelUpdates": true
+}
